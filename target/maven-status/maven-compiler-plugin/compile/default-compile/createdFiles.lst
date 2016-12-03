@@ -1,0 +1,3 @@
+com\naveen\example\myapp1\controller\LandingPageController.class
+com\naveen\example\myapp1\controller\MFAEnabledPageController.class
+com\naveen\example\myapp1\controller\ProtectedPage1Controller.class
