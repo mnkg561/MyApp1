@@ -37,34 +37,33 @@
 					login</h3>
 
 				<a
-					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/page1"
+					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/allemployees/page"
 					target="_blank">All Employees Application!</a>
 
 				<p>All Employess Application is an application which is
 					protected by SSO and can be accessed by any employee</p>
 
 				<a
-					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/page1"
+					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/hrdept/page"
 					target="_blank">HR Application!</a>
 
-				<p>All Employess Application is an application which is
-					protected by SSO and can be accessed by only HR Dept employees</p>
+				<p>HR Application is an application which is protected by SSO
+					and can be accessed by only HR Dept employees</p>
 
 				<a
-					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/page1"
+					href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/marketing/page"
+					target="_blank">Marketing Application!</a>
+
+				<p>Marketing Application is an application which is protected by
+					SSO and can be accessed by only Marketing Dept employees</p>
+
+				<a href="http://myapp1.naveen.com:8080/MyApp1/sample/payroll/page"
 					target="_blank">Payroll Application!</a>
 
-				<p>All Employess Application is an application which is
-					protected by SSO and can be accessed by only Payroll Dept employees</p>
+				<p>Payroll Application is an application which is protected by
+					SSO and MFA and can be accessed by only after one time password</p>
 
-				<a
-					href="http://myapp1.naveen.com:8080/MyApp1/sample/mfa/page"
-					target="_blank">MFA Application!</a>
 
-				<p>MFA Application is an application which is
-					protected by SSO and MFA and can be accessed by only after one time password</p>
-
-				
 			</div>
 		</div>
 	</div>
