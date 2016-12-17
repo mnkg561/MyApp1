@@ -57,7 +57,7 @@
 				<p>Marketing Application is an application which is protected by
 					SSO and can be accessed by only Marketing Dept employees</p>
 
-				<a href="http://myapp1.naveen.com:8080/MyApp1/sample/payroll/page"
+				<a href="http://myapp1.naveen.com:8080/MyApp1/sample/protected/payroll/page"
 					target="_blank">Payroll Application!</a>
 
 				<p>Payroll Application is an application which is protected by
